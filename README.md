@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayor-max
-- 👀 I’m interested in ... app developing
-- 🌱 I’m currently learning ... flutter
+- 👀 I’m interested in ... biomedical engineering
+- 🌱 I’m currently learning ... MATLAB,Arduino,Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... shadmanshakib989@gmail.com
 
